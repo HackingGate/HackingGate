@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I'm Tong :)
 
 <!--
 **HackingGate/HackingGate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I create mobile appps and web services. I love Swift. I also use but not limit to React.js, Vue.js, JavaScript, TypeScript, Java, Kotlin.
+
+![](https://github-readme-stats.vercel.app/api?username=HackingGate&show_icons=true&count_private=true&line_height=40)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HackingGate&hide=html)
