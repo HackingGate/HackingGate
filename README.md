@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 I create mobile appps and web services. I love Swift. I also use but not limit to React.js, Vue.js, JavaScript, TypeScript, Java, Kotlin.
 
+I speak English, Japanese, Mandarin and Cantonese.
+
 ![](https://github-readme-stats.vercel.app/api?username=HackingGate&show_icons=true&count_private=true&line_height=40)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HackingGate&hide=html)
