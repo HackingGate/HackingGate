@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - Mobile Application and Front-end Developer
-- Native in Mandarin. Lived 2 years in Shenzhen, love travel to Hong Kong. I self-taught Cantonese for fun.
+- Native in Mandarin. Lived 2 years in Shenzhen, loved travel to Hong Kong. I self-taught Cantonese for fun.
 - Been living in Tokyo for 6 years and speak fluent Japanese.
 
 ![](https://github-readme-stats.vercel.app/api?username=HackingGate&show_icons=true&count_private=true&line_height=40)
