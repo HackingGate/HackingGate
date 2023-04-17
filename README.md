@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Mobile Application and Front-end Developer
+- Mobile/Web app Developer
 - Native Mandarin speaker. Lived 1.5 years in Shenzhen, loved travel to Hong Kong. I self-taught Cantonese for fun.
 - Been living in Tokyo for 6 years and speak fluent Japanese.
 
