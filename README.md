@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - Been living in Tokyo for 6 years and speak fluent Japanese.
 
 ![Tong's GitHub stats](https://github-readme-stats-psi-rust-25.vercel.app/api?username=HackingGate&show_icons=true&count_private=true&line_height=40)
-![Tong's top langs](https://github-readme-stats-psi-rust-25.vercel.app/api/top-langs/?username=HackingGate&count_private=true&hide=html)
+![Tong's top langs](https://github-readme-stats-psi-rust-25.vercel.app/api/top-langs/?username=HackingGate)
 
 
 I use but not limited to these tools:
