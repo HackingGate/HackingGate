@@ -15,12 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Mobile/Web app Developer
+- Developer
 - Native Mandarin speaker. Lived 1.5 years in Shenzhen, loved travel to Hong Kong. I self-taught Cantonese for fun.
 - Been living in Tokyo for 6 years and speak fluent Japanese.
 
-![](https://github-readme-stats.vercel.app/api?username=HackingGate&show_icons=true&count_private=true&line_height=40)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HackingGate&hide=html)
+![Tong's GitHub stats](https://github-readme-stats-psi-rust-25.vercel.app/api?username=HackingGate&show_icons=true&count_private=true&line_height=40)
+![Tong's top langs](https://github-readme-stats-psi-rust-25.vercel.app/api/top-langs/?username=HackingGate&count_private=true&hide=html)
 
 
 I use but not limited to these tools:
