@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Developer, learner, explorer.
-- Native Zhi-Yan dialect of Jin Chinese speaker, speaks Mandarin as well. Lived 1.5 years in Shenzhen, loved travel to Hong Kong. I self-taught Cantonese for fun.
-- Been living in Tokyo for more than 6 years and speak fluent Japanese.
+- A developer, a learner, an explorer.
+- Native speaker of the Zhi-Yan dialect of the Jin Chinese language, also speaks Mandarin. Lived in Shenzhen for 1.5 years. Loved travelling to Hong Kong. Taught myself Cantonese.
+- Lived in Tokyo for over 6 years. Speaks fluent Japanese.
 
 ![Tong's GitHub stats](https://github-readme-stats-psi-rust-25.vercel.app/api?username=HackingGate&show_icons=true&count_private=true&line_height=40)
 ![Tong's top langs](https://github-readme-stats-psi-rust-25.vercel.app/api/top-langs/?username=HackingGate)
