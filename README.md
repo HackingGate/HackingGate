@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 ![Tong's GitHub stats](https://github-readme-stats-psi-rust-25.vercel.app/api?username=HackingGate&show_icons=true&count_private=true&line_height=40)
 ![Tong's top langs](https://github-readme-stats-psi-rust-25.vercel.app/api/top-langs/?username=HackingGate)
 
+![](https://github.com/HackingGate/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/HackingGate/github-stats/blob/master/generated/languages.svg)
 
 I use but not limited to these languages and tools:
 
