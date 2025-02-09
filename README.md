@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Tong :)
+### Hi there 👋
 
 <!--
 **HackingGate/HackingGate** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-- A developer, a learner, an explorer.
-- Native speaker of the Zhi-Yan dialect of the Jin Chinese language, also speaks Mandarin. Lived in Shenzhen for 1.5 years. Loved travelling to Hong Kong. Taught myself Cantonese.
-- Lived in Tokyo for over 6 years. Speaks fluent Japanese.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HackingGate/github-stats/master/generated/overview.svg#gh-dark-mode-only">
