@@ -14,12 +14,12 @@ Here are some ideas to get you started:
 -->
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HackingGate/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HackingGate/github-stats/master/generated/overview.svg#gh-light-mode-only">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HackingGate/github-stats/generated/overview.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HackingGate/github-stats/generated/overview.svg#gh-light-mode-only">
+  <img alt="GitHub statistics overview" src="https://raw.githubusercontent.com/HackingGate/github-stats/generated/overview.svg">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HackingGate/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HackingGate/github-stats/master/generated/languages.svg#gh-light-mode-only">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HackingGate/github-stats/generated/languages.svg#gh-dark-mode-only">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HackingGate/github-stats/generated/languages.svg#gh-light-mode-only">
+  <img alt="GitHub language statistics" src="https://raw.githubusercontent.com/HackingGate/github-stats/generated/languages.svg">
 </picture>
