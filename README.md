@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 </picture>
 
 > [!IMPORTANT]    
-> See [github-stats](https://github.com/HackingGate/github-stats) for calculation methods on these charts.  
+> See [github-stats](https://github.com/HackingGate/github-stats) for calculation methods.  
