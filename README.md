@@ -23,3 +23,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HackingGate/github-stats/generated/languages.svg#gh-light-mode-only">
   <img alt="GitHub language statistics" src="https://raw.githubusercontent.com/HackingGate/github-stats/generated/languages.svg">
 </picture>
+
+> [!IMPORTANT]  
+> GitHub statistics can vary depending on calculation methods.  
+> See [github-stats](https://github.com/HackingGate/github-stats) for for details on how these charts are analyzed.  
