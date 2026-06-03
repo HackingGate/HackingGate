@@ -24,6 +24,5 @@ Here are some ideas to get you started:
   <img alt="GitHub language statistics" src="https://raw.githubusercontent.com/HackingGate/github-stats/generated/languages.svg">
 </picture>
 
-> [!IMPORTANT]  
-> GitHub statistics can vary depending on calculation methods.  
-> See [github-stats](https://github.com/HackingGate/github-stats) for for details on how these charts are analyzed.  
+> [!IMPORTANT]    
+> See [github-stats](https://github.com/HackingGate/github-stats) for calculation methods on these charts.  
